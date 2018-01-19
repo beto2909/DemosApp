@@ -1,0 +1,33 @@
+
+hand_side.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+left_handed_down
+  rotate: false
+  xy: 1, 1
+  size: 214, 266
+  orig: 214, 266
+  offset: 0, 0
+  index: -1
+left_handed_up
+  rotate: false
+  xy: 217, 1
+  size: 214, 266
+  orig: 214, 266
+  offset: 0, 0
+  index: -1
+right_handed_down
+  rotate: false
+  xy: 433, 1
+  size: 214, 266
+  orig: 214, 266
+  offset: 0, 0
+  index: -1
+right_handed_up
+  rotate: false
+  xy: 649, 1
+  size: 214, 266
+  orig: 214, 266
+  offset: 0, 0
+  index: -1
